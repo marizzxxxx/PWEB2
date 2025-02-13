@@ -18,6 +18,11 @@ ATV1:
 
 8. Crie um programa que receba três números e determine qual é o maior.
 
+ATV2:
+
+Crie um modelo para Category do Produto e faça uma relação entre Produto e Categoria. A categoria deve conter
+apenas id e description. Além do modelo faça a CategoryRepository, CategoryController e CategoryRoutes.
+
 AVA1:
 
 A Biblioteca Central da cidade está se modernizando e busca desenvolver um sistema de gestão para seu acervo digital. Esse sistema deve permitir a organização e o controle eficiente de materiais variados que fazem parte do acervo, tais como publicações tradicionais e acadêmicas. O objetivo é fornecer uma ferramenta capaz de gerenciar desde obras literárias e periódicos até artigos especializados e trabalhos de conclusão de curso.
